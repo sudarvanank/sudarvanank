@@ -1,12 +1,44 @@
-=>A tech enthusiastic nerd ⚙️
+<h1 align="center">Hi 👋, I'm Sudarvanan K</h1>
+<h3 align="center">A Nerd from Chennai,India</h3>
 
-=>Budding Electronics and communication Engineer 🧑‍🔬
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarvanank&label=Profile%20views&color=0e75b6&style=flat" alt="sudarvanank" /> </p>
 
-=>HTML, CSS and React newbie🧑‍💻
+<p align="left"> <a href="https://twitter.com/sudarvanan_k/" target="blank"><img src="https://img.shields.io/twitter/follow/sudarvanan_k?logo=twitter&style=for-the-badge" alt="Sudarvanan K" /></a> </p>
 
-=>Done various projects using Embedded systems ⚡💡
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-=>Reach me out at
+- 🌱 I’m currently Working on Ai Based security system
 
-<a href="https://www.linkedin.com/in/sudarvanan-k/">Linked In</a> || <a href="https://www.instagram.com/its._.sudar/">Instagram</a> ||
-<a href="https://twitter.com/sudarvanan_k/">Twitter</a> || <a href="https://www.facebook.com/profile.php?id=100008499942566">Facebook</a>
+- 🤝 I’m available for freelancing.
+
+- 🌱 I’m currently learning React Js
+
+- 📝 I regularly write articles on [https://thetechrig.blogspot.com/](https://thetechrig.blogspot.com/)
+
+- 💬 Ask me about **Html & Embedded Systems**
+
+- 📫 How to reach me **sudarvanankandasamy@gmail.com**
+
+<!-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+<br/>-->
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sudarvanan-k/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/sudarvanank">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/its._.sudar/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/sudarvanan_k/">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/sudarvanank">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
+
