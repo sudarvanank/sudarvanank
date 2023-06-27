@@ -16,7 +16,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Python & React Js
 
 - 📝 I regularly write articles on [https://thetechrig.blogspot.com/](https://thetechrig.blogspot.com/)
 
